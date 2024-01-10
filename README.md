@@ -2,12 +2,13 @@ Hi there, I'm Olzhas Tynyshtyk 👋
 Flutter Developer | Mobile App Enthusiast | Tech Explorer
 
 Welcome to my GitHub profile! I'm Olzhas, a passionate Flutter developer dedicated to building intuitive, efficient, and scalable mobile applications. With a deep interest in cross-platform solutions, I love to explore new technologies and innovate in the mobile development space.
-🌱 What I'm focusing on
 
+
+🌱 What I'm focusing on
 Currently, I'm deepening my expertise in Flutter and Dart, exploring advanced topics like state management, animations, and custom widgets. I’m also learning Mobile Technologies.
 💼 Where I've worked
 
-    GOV4C - Junior/Intern Flutter Developer
+    GOV4C - Intern/Junior Flutter Developer
     CodeUnion - Intern Flutter Developer
 
 📫 How to reach me
