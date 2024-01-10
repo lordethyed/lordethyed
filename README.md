@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi there, I'm Olzhas Tynyshtyk 👋
+Flutter Developer | Mobile App Enthusiast | Tech Explorer
 
-<!--
-**lordethyed/lordethyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Olzhas, a passionate Flutter developer dedicated to building intuitive, efficient, and scalable mobile applications. With a deep interest in cross-platform solutions, I love to explore new technologies and innovate in the mobile development space.
+🌱 What I'm focusing on
 
-Here are some ideas to get you started:
+Currently, I'm deepening my expertise in Flutter and Dart, exploring advanced topics like state management, animations, and custom widgets. I’m also learning Mobile Technologies.
+💼 Where I've worked
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    GOV4C - Junior/Intern Flutter Developer
+    CodeUnion - Intern Flutter Developer
+
+📫 How to reach me
+
+    LinkedIn: www.linkedin.com/in/olzhas-tynyshtyk
+    Email: tynyshtyk.olzhas@gmail.com
+
+⚡ Fun fact
+
+Love sport, active leisure
+
+🤝 Let's Connect
+
+Feel free to reach out if you want to discuss tech, work on a project together, or just want to say hi!
