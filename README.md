@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm Olzhas, a passionate Flutter developer dedicat
 Currently, I'm deepening my expertise in Flutter and Dart, exploring advanced topics like state management, animations, and custom widgets. I’m also learning Mobile Technologies.
 💼 Where I've worked
 
-    GOV4C - Intern/Junior Flutter Developer
-    CodeUnion - Intern Flutter Developer
+    GOV4C - Junior Flutter Developer
+    CodeUnion - Junior Flutter Developer
 
 📫 How to reach me
 
