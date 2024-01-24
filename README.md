@@ -23,5 +23,3 @@ Love sport, active leisure
 🤝 Let's Connect
 
 Feel free to reach out if you want to discuss tech, work on a project together, or just want to say hi!
-
-![lordethyed's GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=lordethyed&theme=react-dark)
