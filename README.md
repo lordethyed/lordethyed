@@ -9,7 +9,7 @@ Currently, I'm deepening my expertise in Flutter and Dart, exploring advanced to
 💼 Where I've worked
 
     GOV4C - Junior Flutter Developer
-    CodeUnion - Junior Flutter Developer
+    CodeUnion - Junior+ Flutter Developer
 
 📫 How to reach me
 
